@@ -1,0 +1,49 @@
+h1{
+    color: antiquewhite;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffb5b5;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+}
+
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+.project {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.project h2 {
+    margin-top: 0;
+}
+.project p {
+    margin-top: 5px;
+    font-size: 16px;
+}
+.contact-btn{
+    font-size: x-large;
+    margin-left: -1080px ;
+}
+.contact-btn:hover {
+    background-color: #0056b3;
+}
